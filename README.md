@@ -22,3 +22,13 @@ secman
 └──to
    └──secman
 ```
+
+## Start Sync
+
+run
+
+```bash
+secman sync start
+```
+
+and you can find it in **https://github.com/YOUR_USERNAME/.secman**
