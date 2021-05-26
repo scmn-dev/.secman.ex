@@ -5,7 +5,7 @@
 ## How to use it ?
 
 ```bash
-secman sync clone -t/--use-template
+secman --use-template
 ```
 
 > the master password: `secman`
